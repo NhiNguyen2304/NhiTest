@@ -54,7 +54,6 @@ public class CartObj implements Serializable{
             }
         }
         }
-     System.out.println("Nhi Nguyen");
     }
     
 
